@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d748dd79-a140-4968-841b-d4e8283b17eb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/cabinets/IT.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/cabinets/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/cabinets/scor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/cabinets/skor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/cabinets/skor1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/cabinets/skor2.jjpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/cabinets/skor4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/cabinets/xari.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/cabinets/xari1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fon1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fon2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/logo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/schoolOutSide.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/гид.jpeg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="4" />
+    <option name="OUTPUT_DIRECTORY" value="$USER_HOME$/Шаблоны" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2pw7S5ncwx4Deom8BQ87ag11sT6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/novyjpolzovatel/PycharmProjects/PythonProject4/static/cabinets&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/cabinets" />
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="C:\Users\Иришка" />
+      <recent name="C:\Users\Иришка\PycharmProjects\PythonProject4\templates" />
+      <recent name="C:\Users\Иришка\PycharmProjects\PythonProject4" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/static/cabinets" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PythonProject4" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d748dd79-a140-4968-841b-d4e8283b17eb" name="Changes" comment="" />
+      <created>1733665281529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733665281529</updated>
+    </task>
+    <servers />
+  </component>
+</project>
